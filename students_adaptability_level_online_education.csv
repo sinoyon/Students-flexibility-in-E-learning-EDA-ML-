@@ -1,0 +1,1206 @@
+Education Level,Institution Type,Gender,Age,Device,IT Student,Location,Financial Condition,Internet Type,Network Type,Flexibility Level
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Public,Female,27,Computer,Yes,Town,Poor,Mobile Data,4G,Low
+University,Public,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Rich,Wifi,4G,High
+School,Public,Male,10,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+College,Public,Female,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,3G,Low
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,27,Mobile,Yes,Rural,Poor,Mobile Data,4G,Moderate
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Public,Male,27,Mobile,No,Rural,Mid,Mobile Data,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Public,Female,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,2G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Wifi,4G,Moderate
+School,Public,Male,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,3G,High
+School,Public,Male,10,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Poor,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,3G,Moderate
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,High
+College,Public,Male,18,Mobile,No,Town,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,4G,High
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Computer,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+University,Private,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,High
+University,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+School,Public,Male,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Public,Male,27,Mobile,No,Rural,Mid,Mobile Data,4G,High
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Rich,Wifi,4G,High
+School,Public,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Public,Male,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,9,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Computer,No,Town,Rich,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+College,Public,Male,18,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,Yes,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,3G,Low
+School,Public,Male,10,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+University,Private,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+School,Public,Female,11,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+School,Public,Female,18,Mobile,No,Rural,Rich,Mobile Data,4G,High
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Female,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Poor,Wifi,3G,Low
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,2G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Male,27,Mobile,Yes,Town,Rich,Wifi,4G,High
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Wifi,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,2G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+University,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+University,Private,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+University,Private,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+College,Public,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,9,Mobile,No,Town,Rich,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Rich,Wifi,4G,High
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,No,Town,Rich,Wifi,4G,High
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,9,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+School,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Tab,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+University,Private,Female,23,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Rich,Wifi,4G,Low
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Computer,No,Town,Rich,Wifi,4G,High
+College,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,27,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+College,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,27,Computer,Yes,Town,Poor,Mobile Data,3G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,High
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Rich,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,High
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,27,Mobile,Yes,Town,Rich,Wifi,4G,High
+University,Private,Male,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,27,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,3G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,9,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,High
+School,Private,Male,11,Computer,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+University,Public,Female,27,Computer,Yes,Town,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Public,Female,27,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,3G,High
+University,Private,Male,23,Mobile,Yes,Town,Rich,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,High
+School,Public,Male,9,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+University,Private,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,High
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+School,Private,Female,11,Mobile,No,Town,Rich,Wifi,3G,High
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+College,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+School,Public,Male,11,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Public,Male,11,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Private,Male,27,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+School,Private,Female,10,Mobile,No,Town,Rich,Wifi,4G,High
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,27,Computer,Yes,Town,Poor,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,2G,Moderate
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,High
+School,Private,Female,9,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,27,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Computer,Yes,Town,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,High
+University,Private,Female,23,Tab,Yes,Rural,Poor,Wifi,2G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Wifi,3G,Low
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Rich,Wifi,4G,Low
+University,Private,Male,27,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Female,9,Mobile,No,Town,Rich,Mobile Data,4G,Low
+University,Public,Female,23,Mobile,No,Town,Poor,Mobile Data,4G,Low
+University,Private,Female,23,Tab,No,Town,Rich,Wifi,4G,Moderate
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,9,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Female,23,Mobile,No,Town,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Computer,No,Town,Rich,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Computer,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,High
+University,Public,Male,27,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+University,Public,Female,23,Mobile,No,Town,Mid,Wifi,3G,Low
+School,Public,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,10,Mobile,No,Town,Rich,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Public,Male,27,Mobile,Yes,Rural,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,27,Mobile,Yes,Rural,Poor,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Mid,Mobile Data,4G,Low
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Public,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,9,Mobile,No,Town,Poor,Mobile Data,4G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Male,27,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,11,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Wifi,3G,Low
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+University,Private,Male,27,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Female,9,Mobile,No,Town,Rich,Mobile Data,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Rich,Wifi,3G,High
+University,Public,Female,27,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Female,18,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Wifi,4G,High
+School,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+College,Public,Male,18,Tab,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,Yes,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Poor,Mobile Data,4G,High
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,2G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Public,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Tab,Yes,Rural,Poor,Wifi,2G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Poor,Wifi,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,High
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Computer,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Public,Male,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,High
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Public,Male,11,Mobile,No,Rural,Poor,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,23,Computer,Yes,Town,Mid,Wifi,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,High
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,High
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,27,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Public,Female,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Public,Female,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Private,Female,18,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,18,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,27,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,3G,Moderate
+College,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Female,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,High
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,27,Mobile,Yes,Rural,Poor,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,No,Town,Mid,Wifi,3G,High
+College,Public,Female,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,10,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,3G,Moderate
+School,Public,Male,10,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+College,Public,Male,18,Tab,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Tab,No,Town,Rich,Wifi,4G,High
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,10,Mobile,No,Town,Rich,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Wifi,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Wifi,3G,High
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Moderate
+School,Private,Male,10,Mobile,No,Town,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+University,Public,Male,27,Mobile,Yes,Rural,Poor,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Public,Male,18,Mobile,No,Town,Rich,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Male,10,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Public,Male,10,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+College,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Female,23,Mobile,No,Town,Poor,Wifi,4G,Low
+School,Private,Male,11,Computer,No,Town,Mid,Wifi,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Public,Male,18,Computer,No,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Public,Female,18,Mobile,No,Rural,Rich,Mobile Data,4G,High
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Low
+University,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,23,Computer,No,Town,Rich,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+University,Public,Female,27,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Private,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,27,Mobile,No,Rural,Mid,Mobile Data,4G,High
+School,Private,Male,11,Computer,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,3G,Low
+School,Private,Female,10,Mobile,No,Town,Mid,Wifi,3G,High
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,9,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Rich,Wifi,3G,High
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Private,Female,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,23,Computer,Yes,Town,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Tab,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+School,Public,Male,9,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Female,23,Tab,No,Town,Rich,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+University,Public,Male,27,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,3G,Moderate
+College,Private,Female,18,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+School,Public,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Public,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+School,Public,Male,11,Mobile,No,Town,Mid,Wifi,4G,High
+University,Public,Female,23,Mobile,No,Town,Mid,Wifi,3G,Low
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,High
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,2G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Female,18,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Private,Female,23,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Town,Rich,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Female,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,Moderate
+School,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Female,10,Mobile,No,Town,Mid,Wifi,3G,High
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Male,10,Mobile,No,Town,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Wifi,3G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Female,11,Mobile,No,Town,Rich,Wifi,3G,High
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Public,Male,18,Mobile,No,Town,Mid,Wifi,4G,Moderate
+College,Public,Male,18,Tab,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Low
+School,Public,Female,11,Mobile,No,Town,Rich,Wifi,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Low
+School,Public,Male,10,Mobile,No,Town,Mid,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Poor,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,18,Computer,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+University,Public,Male,23,Mobile,No,Town,Mid,Wifi,4G,Low
+University,Private,Female,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Rich,Mobile Data,3G,High
+School,Public,Female,18,Mobile,No,Town,Mid,Mobile Data,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+College,Public,Male,18,Tab,Yes,Town,Mid,Wifi,4G,Moderate
+University,Private,Male,23,Computer,No,Town,Mid,Wifi,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+School,Public,Female,11,Mobile,No,Town,Mid,Wifi,4G,Low
+School,Private,Female,9,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,Yes,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Low
+School,Private,Female,9,Mobile,No,Town,Poor,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Town,Mid,Wifi,4G,Moderate
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+University,Public,Female,23,Mobile,No,Rural,Mid,Mobile Data,2G,Low
+School,Private,Male,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
+University,Private,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Public,Female,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Female,18,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+University,Private,Male,23,Mobile,Yes,Rural,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Computer,No,Town,Mid,Wifi,4G,Moderate
+University,Public,Female,23,Mobile,No,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Rural,Mid,Wifi,4G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Mobile,Yes,Rural,Poor,Mobile Data,3G,Moderate
+University,Public,Male,27,Mobile,Yes,Town,Rich,Wifi,4G,High
+University,Public,Male,23,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Public,Female,18,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+University,Public,Male,23,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+University,Public,Male,27,Computer,Yes,Town,Rich,Wifi,4G,High
+School,Public,Male,10,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,4G,Moderate
+School,Private,Female,11,Mobile,No,Town,Rich,Wifi,3G,High
+School,Public,Male,9,Mobile,No,Rural,Mid,Mobile Data,4G,Low
+College,Public,Male,18,Mobile,Yes,Town,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Rural,Mid,Mobile Data,3G,Moderate
+College,Public,Female,18,Mobile,No,Rural,Poor,Mobile Data,4G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Low
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Male,10,Mobile,No,Town,Rich,Wifi,4G,Moderate
+University,Private,Female,23,Mobile,Yes,Town,Mid,Wifi,4G,Low
+University,Private,Male,27,Mobile,Yes,Town,Mid,Wifi,3G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Public,Male,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+School,Private,Male,11,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Poor,Wifi,4G,High
+College,Public,Male,18,Mobile,No,Rural,Mid,Mobile Data,3G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Mobile Data,4G,Moderate
+College,Public,Male,18,Mobile,Yes,Rural,Mid,Mobile Data,4G,Low
+University,Private,Male,23,Computer,Yes,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Town,Mid,Wifi,4G,Low
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Moderate
+School,Private,Male,11,Mobile,No,Town,Mid,Mobile Data,3G,Moderate
+College,Private,Female,18,Mobile,No,Rural,Mid,Wifi,4G,Low
+School,Private,Female,11,Mobile,No,Town,Poor,Mobile Data,3G,Moderate
